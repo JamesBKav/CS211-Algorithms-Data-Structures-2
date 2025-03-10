@@ -6,7 +6,7 @@
  * @version 25-02-2025
  */
 import java.util.*;
-public class CS211lab3
+public class CS211Lab3
 {
     public static String compress(String s, int i){
         s = s.toLowerCase(); // puts string to lower case
